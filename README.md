@@ -1,0 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey?logo=flask)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![License](https://img.shields.io/github/license/your-username/ppe-web)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/ppe-web)
