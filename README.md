@@ -1,6 +1,9 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-API-lightgrey?logo=flask)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
-![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![License](https://img.shields.io/github/license/your-username/ppe-web)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/ppe-web)
+<p>Bạn có thể đọc báo cáo PDF/Word của tôi qua :&nbsp;</p>
+<p>
+<a href="https://drive.google.com/drive/folders/1kLbCdwoNRBA2cWlWR9_glggM4ut2KZev?usp=drive_link">Report</a>
+</p>
+<p>Bạn cũng có thể coi các video demo của đồ án này qua :</p>
+<p>
+<a href="https://drive.google.com/drive/folders/1kLbCdwoNRBA2cWlWR9_glggM4ut2KZev?usp=drive_link">Video Demo</a>
+</p>
+<p>&nbsp;</p>
