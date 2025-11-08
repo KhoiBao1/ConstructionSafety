@@ -1,6 +1,6 @@
 <p>Bạn có thể đọc báo cáo PDF/Word của tôi qua :&nbsp;</p>
 <p>
-<a href="https://drive.google.com/drive/folders/1kLbCdwoNRBA2cWlWR9_glggM4ut2KZev?usp=drive_link">Report</a>
+<a href="https://drive.google.com/drive/u/0/folders/1k_GvYWr_BAVZbhxnYtfhjvafqKj2zMfc">Report</a>
 </p>
 <p>Bạn cũng có thể coi các video demo của đồ án này qua :</p>
 <p>
