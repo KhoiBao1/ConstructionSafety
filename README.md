@@ -1,3 +1,6 @@
+<h2 data-start="117" data-end="152">Project Documentation &amp; Demo</h2>
+<p data-start="154" data-end="203"><em>Project Report (PDF/Word):</em><a href="https://drive.google.com/drive/u/0/folders/1k_GvYWr_BAVZbhxnYtfhjvafqKj2zMfc"> Report</a></p>
+<p data-start="205" data-end="244"><em>Demo Videos:</em><a href="https://drive.google.com/drive/folders/1kLbCdwoNRBA2cWlWR9_glggM4ut2KZev?usp=drive_link"> Video Demo</a></p>
 <h2 data-start="345" data-end="367">Project Overview</h2>
 <p data-start="369" data-end="590">This project is an AI-powered Personal Protective Equipment (PPE) violation detection system designed to help enterprises improve workplace safety monitoring through real-time computer vision and automated alerts.</p>
 <p data-start="592" data-end="734">The system uses deep learning (YOLO-based object detection) to identify whether workers comply with mandatory safety requirements such as:</p>
@@ -335,12 +338,3 @@
 <p data-start="4888" data-end="4954">Design solutions aligned with U.S. industrial safety standards</p>
 </li>
 </ul>
-<p>You can read my project report in PDF/Word format via :&nbsp;</p>
-<p>
-<a href="https://drive.google.com/drive/u/0/folders/1k_GvYWr_BAVZbhxnYtfhjvafqKj2zMfc">Report</a>
-</p>
-<p>You can also watch the demo videos of this project via :</p>
-<p>
-<a href="https://drive.google.com/drive/folders/1kLbCdwoNRBA2cWlWR9_glggM4ut2KZev?usp=drive_link">Video Demo</a>
-</p>
-<p>&nbsp;</p>
