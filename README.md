@@ -296,8 +296,8 @@
 <p data-start="4246" data-end="4287">Edge AI deployment (Jetson Nano / Orin)</p>
 </li>
 </ul>
-<h2 data-start="4294" data-end="4312">👨&zwj;💻 Developer</h2>
-<p data-start="4314" data-end="4383"><strong data-start="4314" data-end="4326">Kh&ocirc;i Bảo</strong><br data-start="4326" data-end="4329" /> Computer Science Student</p>
+<h2 data-start="4294" data-end="4312">💻 Developer</h2>
+<p data-start="4314" data-end="4383"><strong data-start="4314" data-end="4326">Khoi Bao</strong><br data-start="4326" data-end="4329" /> Computer Science Student</p>
 <p data-start="4385" data-end="4400"><strong data-start="4385" data-end="4400">Core Skills</strong></p>
 <ul data-start="4401" data-end="4512">
 <li data-start="4401" data-end="4420">
